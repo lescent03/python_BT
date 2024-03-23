@@ -1,1 +1,1 @@
-# python_BT
+# Python code for meachine learning exercise
